@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+header{ 
+    background-color: aqua;
+}
+
+.navibar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    
+}
+
+#education{
+    background-color: aquamarinea;
+}
+
+
+
